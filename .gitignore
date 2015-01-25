@@ -5,3 +5,8 @@ conf/slaves
 build/
 runtime/
 logs/
+
+##
+/bin/
+.classpath
+.project
